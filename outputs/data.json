@@ -1,0 +1,862 @@
+{
+  "bio": {
+    "name": "Brooke Singman",
+    "personal_title": "Politics Reporter",
+    "company": "Fox News",
+    "company_link": "/media-outlet/fox",
+    "location": "New York",
+    "bio_summary": "Politics Reporter, Fox News Digital",
+    "beats": {
+      "Politics": "https://muckrack.com/beat/politics",
+      "U.S.": "https://muckrack.com/beat/natlnews"
+    },
+    "as_seen_in": [
+      {
+        "title": "The Advertiser (South Australia)",
+        "slug": "adelaidenow",
+        "url": "http://adelaidenow.com.au",
+        "icon": null,
+        "media_type": "Newspaper",
+        "description": "The Advertiser is a conservative, daily tabloid-format newspaper published in the city of Adelaide, South Australia. First published as a broadsheet named The South Australian Advertiser on 12 July 1858, it is currently printed daily from Monday to Saturday. A Sunday edition exists under the name of the Sunday Mail. The Advertiser is a publication of News Corp Australia.",
+        "view_url": "/media-outlet/adelaidenow",
+        "city": "Adelaide",
+        "state": "South Australia",
+        "country": "AU",
+        "domain": "adelaidenow.com.au"
+      },
+      {
+        "title": "WFLD-TV (Chicago, IL)",
+        "slug": "fox32chicago",
+        "url": "http://fox32chicago.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxchi.png",
+        "media_type": "Television",
+        "description": "WFLD, virtual channel 32 (UHF digital channel 31), is a Fox owned-and-operated television station located in Chicago, Illinois, United States. The station is owned by the Fox Television Stations division of 21st Century Fox, and operates as part of a television duopoly with Gary, Indiana-licensed MyNetworkTV owned-and-operated station WPWR-TV (channel 50). The two stations share studio and office facilities located at Michigan Plaza on North Michigan Avenue in the Chicago Loop; WFLD's transmitter is based at the Willis Tower on South Wacker Drive in the Loop business district.",
+        "view_url": "/media-outlet/fox32chicago",
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "US",
+        "domain": "fox32chicago.com"
+      },
+      {
+        "title": "WTVT-TV (Tampa, FL)",
+        "slug": "fox13tampabay",
+        "url": "http://fox13news.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/Fox13TampaBay.jpg",
+        "media_type": "Television",
+        "description": "WTVT, virtual channel 13 (VHF digital channel 12), is a Fox owned-and-operated television station located in Tampa, Florida, United States and also serving the nearby city of St. Petersburg. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox. WTVT maintains studio facilities located on West Kennedy Boulevard in Tampa, and its transmitter is located in Riverview.",
+        "view_url": "/media-outlet/fox13tampabay",
+        "city": "Tampa",
+        "state": "Florida",
+        "country": "US",
+        "domain": "fox13news.com"
+      },
+      {
+        "title": "WJBK-TV (Detroit, MI)",
+        "slug": "foxdetroit",
+        "url": "http://fox2detroit.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxdetroit.png",
+        "media_type": "Television",
+        "description": "WJBK, virtual channel 2 (VHF digital channel 7), is a Fox owned-and-operated television station located in Detroit, Michigan, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox. WJBK maintains studio and transmitter facilities located on West 9 Mile Road in the Detroit suburb of Southfield.",
+        "view_url": "/media-outlet/foxdetroit",
+        "city": "Southfield",
+        "state": "Michigan",
+        "country": "US",
+        "domain": "fox2detroit.com"
+      },
+      {
+        "title": "KCPQ-TV (Seattle, WA)",
+        "slug": "foxseattle",
+        "url": "http://q13fox.com/",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxseattle.png",
+        "media_type": "Television",
+        "description": "KCPQ, channel 13, is a Fox-affiliated television station licensed to Tacoma, Washington, United States that serves the Seattle-Tacoma television market. The station is owned by the Tribune Broadcasting subsidiary of the Tribune Media Company, and is a sister station to MyNetworkTV affiliate KZJO (channel 22 & 10).",
+        "view_url": "/media-outlet/foxseattle",
+        "city": "Seattle",
+        "state": "Washington",
+        "country": "US",
+        "domain": "q13fox.com"
+      },
+      {
+        "title": "WTXF-TV (Philadelphia, PA)",
+        "slug": "foxphilly",
+        "url": "http://fox29.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxphilly.png",
+        "media_type": "Television",
+        "description": "WTXF-TV, channel 29, is a Fox owned-and-operated television station located in Philadelphia, Pennsylvania, United States. The station is owned by the Fox Television Stations subsidiary of the 21st Century Fox. WTXF's studios are located on Market Street in Center City, and its transmitter is located in the Roxborough section of the city.",
+        "view_url": "/media-outlet/foxphilly",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "US",
+        "domain": "fox29.com"
+      },
+      {
+        "title": "WTTG-TV (Washington, DC)",
+        "slug": "foxdc",
+        "url": "http://fox5dc.com/",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxdc.png",
+        "media_type": "Television",
+        "description": "WTTG, channel 5, is a Fox owned-and-operated television station located in the American capital city of Washington, D.C.. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox, and is part of a duopoly with MyNetworkTV owned-and-operated station WDCA (channel 20). The station's studios/office and transmitter facilities are co-located on Wisconsin Avenue in the Friendship Heights neighborhood in the northwest quadrant of Washington.",
+        "view_url": "/media-outlet/foxdc",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "country": "US",
+        "domain": "fox5dc.com"
+      },
+      {
+        "title": "KTBC-TV (Austin, TX)",
+        "slug": "myfoxaustin",
+        "url": "http://fox7austin.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/myfoxaustin.png",
+        "media_type": "Television",
+        "description": "KTBC, channel 7, is a Fox owned-and-operated television station located in Austin, Texas, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox. KTBC maintains studios located on East 10th Street near the Texas State Capitol in downtown Austin, and its transmitter is based at the West Austin Antenna Farm on Mount Larson.",
+        "view_url": "/media-outlet/myfoxaustin",
+        "city": "Austin",
+        "state": "Texas",
+        "country": "US",
+        "domain": "fox7austin.com"
+      },
+      {
+        "title": "WAGA-TV (Atlanta, GA)",
+        "slug": "fox5atlanta",
+        "url": "https://www.fox5atlanta.com/",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxatl.png",
+        "media_type": "Television",
+        "description": "WAGA-TV \"FOX 5\" virtual channel 5 (UHF digital channel 27) is a FOX owned-and-operated television station located in Atlanta, Georgia, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox. WAGA-TV maintains studio and transmitter facilities located on Briarcliff Road in unincoporated DeKalb County, just east of Atlanta proper. WAGA is available on Comcast channel 4 and on DirecTV and Dish Network in the Atlanta metropolitan area.",
+        "view_url": "/media-outlet/fox5atlanta",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "US",
+        "domain": "fox5atlanta.com"
+      },
+      {
+        "title": "KMSP-TV (Eden Prairie, MN)",
+        "slug": "fox9mn",
+        "url": "http://fox9.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxminn.png",
+        "media_type": "Television",
+        "description": "KMSP-TV, channel 9, is a Fox owned-and-operated television station, licensed to Minneapolis, Minnesota, US. KMSP-TV is owned by the Fox Television Stations division of 21st Century Fox, and operates as part of a television duopoly with WFTC (channel 29), the Minneapolis–Saint Paul area's MyNetworkTV station.",
+        "view_url": "/media-outlet/fox9mn",
+        "city": "Eden Prairie",
+        "state": "Minnesota",
+        "country": "US",
+        "domain": "fox9.com"
+      },
+      {
+        "title": "KTVU-TV (Oakland, CA)",
+        "slug": "ktvu",
+        "url": "http://ktvu.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/ktvu.png",
+        "media_type": "Television",
+        "description": "KTVU, channel 2, is a Fox owned-and-operated television station licensed to Oakland, California, USA and serving the San Francisco Bay Area. KTVU is owned by the Fox Television Stations subsidiary of 21st Century Fox, and operates as part of a duopoly with independent station KICU-TV (channel 36). The two stations share studio facilities at Jack London Square in Oakland; KTVU maintains transmitter facilities at Sutro Tower in San Francisco.",
+        "view_url": "/media-outlet/ktvu",
+        "city": "Oakland",
+        "state": "California",
+        "country": "US",
+        "domain": "ktvu.com"
+      },
+      {
+        "title": "KSAZ-TV (Phoenix, AZ)",
+        "slug": "foxphoenix",
+        "url": "http://fox10phoenix.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxphoenix.png",
+        "media_type": "Television",
+        "description": "KSAZ-TV, virtual and VHF digital channel 10, is a Fox owned-and-operated television station located in Phoenix, Arizona, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox, as part of a duopoly with MyNetworkTV station KUTP (channel 45).",
+        "view_url": "/media-outlet/foxphoenix",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "US",
+        "domain": "fox10phoenix.com"
+      },
+      {
+        "title": "WITI-TV (Milwaukee, WI)",
+        "slug": "fox6",
+        "url": "http://fox6now.com/",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/fox6.png",
+        "media_type": "Television",
+        "description": "WITI, virtual channel 6 (UHF digital channel 33), is a Fox-affiliated television station located in Milwaukee, Wisconsin, United States. The station is owned by the Tribune Broadcasting subsidiary of Tribune Media. WITI maintains studio facilities located on North Green Bay Road (WIS 57) in Brown Deer (though the studios carry a Milwaukee postal address), and its transmitter is located on East Capitol Drive (just north of Highway 190) in Shorewood.",
+        "view_url": "/media-outlet/fox6",
+        "city": "Milwaukee",
+        "state": "Wisconsin",
+        "country": "US",
+        "domain": "fox6now.com"
+      },
+      {
+        "title": "KRIV-TV (Houston, TX)",
+        "slug": "foxhouston",
+        "url": "http://fox26houston.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxhouston.png",
+        "media_type": "Television",
+        "description": "KRIV, virtual channel and UHF digital channel 26, is a Fox owned-and-operated television station located in Houston, Texas, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox, as part of a duopoly with MyNetworkTV owned-and-operated station KTXH (channel 20). The two stations share studio facilities located on Southwest Freeway in Houston (between the Uptown and Greenway Plaza districts). KRIV's transmitter is located in unincorporated northeastern Fort Bend County (near Missouri City).",
+        "view_url": "/media-outlet/foxhouston",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "US",
+        "domain": "fox26houston.com"
+      },
+      {
+        "title": "Mercury",
+        "slug": "themercury",
+        "url": "http://themercury.com.au",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/themercury.png",
+        "media_type": "Newspaper",
+        "description": "The Mercury listens to, learns from and leads the Tasmanian community by providing readers with a major forum for debate across print, digital and social media platforms.\r\n\r\nThe lively, balanced and often provocative coverage of the Mercury provides essential reading for Tasmanians and, while proud of its links with local history, the Mercury embraces new challenges on a daily basis. It has an ongoing commitment to developing sections to suit the changing lifestyles of Tasmanians and deliver to advertisers’ specific target markets.",
+        "view_url": "/media-outlet/themercury",
+        "city": "Hobart",
+        "state": "Tasmania",
+        "country": "AU",
+        "domain": "themercury.com.au"
+      },
+      {
+        "title": "KDFW-TV (Dallas, TX)",
+        "slug": "foxdallas",
+        "url": "http://fox4news.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxdallas.png",
+        "media_type": "Television",
+        "description": "KDFW, virtual channel 4 (UHF digital channel 35), is a Fox owned-and-operated television station serving the Dallas–Fort Worth Metroplex that is licensed to Dallas, Texas, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox, as part of a duopoly with MyNetworkTV owned-and-operated station KDFI (channel 27). The two stations share studio facilities located on 400 North Griffin Street in downtown Dallas; KDFW's transmitter is located south of Belt Line Road in Cedar Hill.",
+        "view_url": "/media-outlet/foxdallas",
+        "city": "Dallas",
+        "state": "Texas",
+        "country": "US",
+        "domain": "fox4news.com"
+      },
+      {
+        "title": "WNYW-TV (New York, NY)",
+        "slug": "foxny",
+        "url": "http://fox5ny.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxny.png",
+        "media_type": "Television",
+        "description": "WNYW, channel 5, is the flagship television station of the Fox Broadcasting Company, in New York City. WNYW is owned by the Fox Television Stations subsidiary of 21st Century Fox, and operates as part of a duopoly with Secaucus, New Jersey-based MyNetworkTV flagship station WWOR-TV (channel 9). The two stations maintain studio facilities at the Fox Television Center in the Yorkville section of Manhattan, and its transmitter atop the Empire State Building.",
+        "view_url": "/media-outlet/foxny",
+        "city": "New York",
+        "state": "New York",
+        "country": "US",
+        "domain": "fox5ny.com"
+      },
+      {
+        "title": "KCOP-TV (Los Angeles, CA)",
+        "slug": "foxla-my13",
+        "url": "http://foxla.com/my13",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxla-my13.png",
+        "media_type": "Television",
+        "description": "KCOP-TV, channel 13, is a MyNetworkTV owned-and-operated television station located in Los Angeles, California, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox, as part of a duopoly with Fox owned-and-operated station KTTV (channel 11). The two stations share studio facilities at the Fox Television Center in West Los Angeles; KCOP's transmitter is located atop Mount Wilson.",
+        "view_url": "/media-outlet/foxla-my13",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "US",
+        "domain": "foxla.com"
+      },
+      {
+        "title": "WDRB-TV (Louisville, KY)",
+        "slug": "wdrb",
+        "url": "http://wdrb.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/wdrb.png",
+        "media_type": "Television",
+        "description": "WDRB, virtual channel 41 (UHF digital channel 49), is a Fox-affiliated television station located in Louisville, Kentucky, United States. The station is owned by Block Communications, as part of a duopoly with MyNetworkTV affiliate WMYO (channel 58); Block also operates Campbellsville-licensed CW affiliate WBKI-TV (channel 34) under a local marketing agreement with owner LM Communications, LLC. WDRB and WMYO share studio facilities located on West Muhammad Ali Boulevard (near Route 150) in downtown Louisville; WDRB maintains transmitter is located in rural northeastern Floyd County, Indiana (northeast of Floyds Knobs). On cable, WDRB is available on Time Warner Cable channel 9 and in high definition on digital channel 910.",
+        "view_url": "/media-outlet/wdrb",
+        "city": "Louisville",
+        "state": "Kentucky",
+        "country": "US",
+        "domain": "wdrb.com"
+      },
+      {
+        "title": "LifeZette",
+        "slug": "lifezette",
+        "url": "http://lifezette.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/lifezette.png",
+        "media_type": "Online/Digital",
+        "description": "LifeZette’s mission is contained in its moniker: Life. Explained. Each day the site captures the wonder, the complexity, the frustration and the joys of life in all its variety. This is media built for the way we live—never in one place or focused on one issue to the exclusion of all others. From pop culture to faith, parenting to politics, LifeZette delivers a compelling mixture of stories, commentary, video and graphics designed to inform and entertain – and to help all of us live our lives to the fullest.",
+        "view_url": "/media-outlet/lifezette",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "country": "US",
+        "domain": "lifezette.com"
+      },
+      {
+        "title": "KTTV-TV (Los Angeles, CA)",
+        "slug": "foxla",
+        "url": "http://foxla.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/foxla.png",
+        "media_type": "Television",
+        "description": "KTTV, channel 11, is a Fox owned-and-operated television station located in Los Angeles, California, USA. KTTV is owned by the Fox Television Stations division of 21st Century Fox, and operates as the West Coast flagship station of the Fox Broadcasting Company. It is also part of a television duopoly with KCOP (channel 13), Los Angeles's MyNetworkTV station. The two stations share studio facilities within the Fox Television Center in West Los Angeles, and KTTV's transmitter is located on Mount Wilson.",
+        "view_url": "/media-outlet/foxla",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "US",
+        "domain": "foxla.com"
+      },
+      {
+        "title": "WOFL-TV (Lake Mary, FL)",
+        "slug": "myfoxorlando",
+        "url": "http://fox35orlando.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/myfoxorlando.png",
+        "media_type": "Television",
+        "description": "WOFL, channel 35, is an Fox owned-and-operated television station located in Orlando, Florida, United States. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox, and is part of a duopoly with MyNetworkTV owned-and-operated WRBW (channel 65). The two stations share studios located on Skyline Drive in Lake Mary, Florida, and its transmitter is located in unincorporated Bithlo, Florida.",
+        "view_url": "/media-outlet/myfoxorlando",
+        "city": "Lake Mary",
+        "state": "Florida",
+        "country": "US",
+        "domain": "fox35orlando.com"
+      },
+      {
+        "title": "Northern Territory News",
+        "slug": "ntnews",
+        "url": "http://ntnews.com.au",
+        "icon": null,
+        "media_type": "Newspaper",
+        "description": "The NT News is a morning tabloid newspaper based in Darwin, Australia. It is a subsidiary of News Corp Australia, owned by Rupert Murdoch's News Corp. It primarily serves Darwin and the rest of the Northern Territory. It covers local, national, and world news as well as sports and business.",
+        "view_url": "/media-outlet/ntnews",
+        "city": "Darwin",
+        "state": "Northern Territory",
+        "country": "AU",
+        "domain": "ntnews.com.au"
+      },
+      {
+        "title": "Geelong Advertiser",
+        "slug": "geelongadvertiser",
+        "url": "http://geelongadvertiser.com.au",
+        "icon": null,
+        "media_type": "Newspaper",
+        "description": "The Geelong Advertiser is Victoria’s oldest morning newspaper, the first edition being published on November 21, 1840.\r\n\r\nThe following excerpt is taken from GEELONG-The First 150 Years, written by Peter Begg and first published by The Geelong Advertiser Pty. Ltd. in 1990.",
+        "view_url": "/media-outlet/geelongadvertiser",
+        "city": "Geelong",
+        "state": "Victoria",
+        "country": "AU",
+        "domain": "geelongadvertiser.com.au"
+      },
+      {
+        "title": "RealClearDefense",
+        "slug": "realcleardefense",
+        "url": "http://realcleardefense.com",
+        "icon": null,
+        "media_type": "Online/Digital",
+        "description": "RealClearDefense (RCD) was created at the request of the Pentagon and Hill staff on the House Armed Services Committee. These groups felt that existing defense coverage was fragmented and there needed to be one place to go for information about military affairs, defense policy, national security, and foreign affairs.\r\n\r\nRCD does the best job in the industry of digesting the day’s news for military and defense professionals and enthusiasts. With its balanced mix of curated stories and original content, RCD is a force in the defense world, providing an open resource for anyone seeking a comprehensive understanding of the landscape. In addition to its broad scope coverage, RCD expertly covers niche defense topics. RCD is committed to making the day easier by keeping readers one step ahead of the most important happenings.\r\n\r\nRealClearDefense falls underneath the umbrella of RealClear Media Group's(RCMG) 15 brands, sites that span a spectrum of passions and interests.",
+        "view_url": "/media-outlet/realcleardefense",
+        "city": "Washington",
+        "state": "District Of Columbia",
+        "country": "US",
+        "domain": "realcleardefense.com"
+      },
+      {
+        "title": "The Jewish Voice (New York)",
+        "slug": "thejewishvoice",
+        "url": "http://thejewishvoice.com",
+        "icon": null,
+        "media_type": "Newspaper",
+        "description": "The Jewish Voice (JV) is a weekly newspaper based in Brooklyn, New York, that was founded 2003 as The Sephardic Voice. It is distributed throughout New York City, and to selected locations in New Jersey and Florida. It has the largest Jewish classified ad section in the United States, and have an ever-expanding international audience. The Jewish Voice has an unapologetic pro-Zionist editorial outlook. It covers of Israeli and local news (the latter focused on New York, and to a lesser extent New Jersey and Florida). On its Facebook page, the Jewish Voice mission statement is \"Providing our readers with timely and thought-provoking news and opinion, from a pro-American, pro-Zionist perspective.\"",
+        "view_url": "/media-outlet/thejewishvoice",
+        "city": "Brooklyn",
+        "state": "New York",
+        "country": "US",
+        "domain": "thejewishvoice.com"
+      },
+      {
+        "title": "RealClearInvestigations",
+        "slug": "realclearinvestigations",
+        "url": "http://realclearinvestigations.com",
+        "icon": null,
+        "media_type": "Online/Digital",
+        "description": "RealClearInvestigations  is both the latest addition to the RealClear family and an original new voice in investigative journalism.\r\n\r\nOur mission is three-fold: curate the best investigative reporting found anywhere, produce our own in-depth journalism, and make this original work available to other news organizations. Our work is supported by the RealClearFoundation, a 501(c)(3) nonprofit. (See below).\r\n\r\nThat last detail reflects a by now well-established shift in how news is financed and produced: from profit-based models to donor-supported nonprofit endeavors. The area most affected by this transformation is investigative news -- journalism’s most vital work, and typically its most expensive and labor-intensive.",
+        "view_url": "/media-outlet/realclearinvestigations",
+        "city": null,
+        "state": null,
+        "country": "",
+        "domain": "realclearinvestigations.com"
+      },
+      {
+        "title": "California Political Review",
+        "slug": "capoliticalreview",
+        "url": "http://capoliticalreview.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/capoliticalreview.jpeg",
+        "media_type": "Online/Digital",
+        "description": "",
+        "view_url": "/media-outlet/capoliticalreview",
+        "city": null,
+        "state": "California",
+        "country": "US",
+        "domain": "capoliticalreview.com"
+      },
+      {
+        "title": "WOGX-TV (Gainesville, FL)",
+        "slug": "wogx",
+        "url": "http://wogx.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/wogx.png",
+        "media_type": "Television",
+        "description": "WOGX, channel 51, is a television station licensed to Ocala, Florida, USA. The station is owned by the Fox Television Stations subsidiary of 21st Century Fox and is an owned-and-operated station of the Fox Broadcasting Company. Although identifying as a separate station in its own right, WOGX is actually considered a semi-satellite of WOFL in Orlando. As such, it clears all network programming as provided through its parent station but airs a separate offering of syndicated programming, albeit with separate local commercials and legal station identifications.",
+        "view_url": "/media-outlet/wogx",
+        "city": "Gainesville",
+        "state": "Florida",
+        "country": "US",
+        "domain": "wogx.com"
+      },
+      {
+        "title": "WGMD-FM (Rehoboth Beach, DE)",
+        "slug": "wgmd",
+        "url": "http://wgmd.com",
+        "icon": null,
+        "media_type": "Television",
+        "description": "WGMB-TV, virtual channel 44 (UHF digital channel 45), is a Fox-affiliated television station licensed to Baton Rouge, Louisiana, United States. Owned by Nexstar Media Group, it is sister to two Class A stations: CW affiliate WBRL-CD (channel 21) and independent KZUP-CD (channel 19); Nexstar also operates NBC affiliate WVLA-TV (channel 33) through joint sales and shared services agreements with owner White Knight Broadcasting. The four stations share studios on Perkins Road in Baton Rouge; WGMB's transmitter is located near Addis, Louisiana. On cable, the station is seen on Cox Communications channel 6 in standard definition, and on digital channel 1006 in high definition, as well as AT&T U-verse channels 44 and 1044. The station is also seen via satellite through DirecTV and Dish Network.",
+        "view_url": "/media-outlet/wgmd",
+        "city": "REHOBOTH BEACH",
+        "state": "Delaware",
+        "country": "US",
+        "domain": "wgmd.com"
+      },
+      {
+        "title": "RealClearHealth",
+        "slug": "realclearhealth",
+        "url": "http://realclearhealth.com",
+        "icon": null,
+        "media_type": null,
+        "description": "RealClearHealth (RCH) curates the most significant news and opinions surrounding the health care debate. Not only does RCH keep readers one step ahead of the debate through curation; it also publishes original content that explores key issues in health policy.\r\n\r\n\r\nRealClearHealth falls underneath the umbrella of RealClear Media Group's(RCMG) 15 brands, sites that span a spectrum of passions and interests. Visit realclearmediagroup.com today",
+        "view_url": "/media-outlet/realclearhealth",
+        "city": null,
+        "state": null,
+        "country": "US",
+        "domain": "realclearhealth.com"
+      },
+      {
+        "title": "American Security Today",
+        "slug": "americansecuritytoday",
+        "url": "http://americansecuritytoday.com",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/americansecuritytoday.png",
+        "media_type": "Online/Digital",
+        "description": "American Security Today is the new face of Homeland Security\r\n\r\nAST focuses on New and Evolving Homeland Security Threats at All Levels, that have Law Enforcement, First Responders and Public Safety personnel on the front lines of protecting our communities, cities and nation.",
+        "view_url": "/media-outlet/americansecuritytoday",
+        "city": "Wall",
+        "state": "New Jersey",
+        "country": "US",
+        "domain": "americansecuritytoday.com"
+      },
+      {
+        "title": "WOOD-AM (Grand Rapids, MI)",
+        "slug": "woodradioiheart",
+        "url": "http://woodradio.iheart.com/",
+        "icon": "https://s3.amazonaws.com/media.muckrack.com/groups/icons/woodradioiheart.jpeg",
+        "media_type": "Radio",
+        "description": "WOOD is a news/talk radio station broadcasting at 1300 kHz and 106.9 MHz in Michigan, United States. WOOD-AM is licensed to Grand Rapids, Michigan and WOOD-FM to Muskegon, Michigan.",
+        "view_url": "/media-outlet/woodradioiheart",
+        "city": "Grand Junction",
+        "state": "Michigan",
+        "country": "US",
+        "domain": "woodradio.iheart.com"
+      },
+      {
+        "title": "Baltimore Jewish Life",
+        "slug": "baltimorejewishlife",
+        "url": "http://baltimorejewishlife.com",
+        "icon": null,
+        "media_type": "Online/Digital",
+        "description": "It is the goal of BaltimoreJewishLife.com that everyone, regardless of gender, denomination, age, or technical know-how, will find something highly useful each time they visit. Whether looking for a store coupon, finding a minyan, publicizing an event, selecting a company for home repair, or finding a job, this website aims to pull together myriad information resources available within the Baltimore Jewish community. Content will be added by our staff and our end-users (all content will be screened prior to posting), and will cover virtually every aspect of Jewish life in Baltimore. In this way, store owners will be able to advertise specials, institutions can publicize events, the public can find out about opportunities for",
+        "view_url": "/media-outlet/baltimorejewishlife",
+        "city": "Baltimore",
+        "state": "Maryland",
+        "country": "US",
+        "domain": "baltimorejewishlife.com"
+      },
+      {
+        "title": "iHeartRadio",
+        "slug": "iheart",
+        "url": "http://iheart.com",
+        "icon": null,
+        "media_type": "Podcast Network",
+        "description": "iHeartRadio is an American free broadcast, podcast and streaming radio platform owned by iHeartMedia, Inc. It was founded in April 2008. As of 2019, iHeartRadio functions as the national umbrella brand for iHeartMedia's radio network, the largest radio broadcaster in the United States. Its main competitors are Radio.com and TuneIn.",
+        "view_url": "/media-outlet/iheart",
+        "city": "New York",
+        "state": "New York",
+        "country": "US",
+        "domain": "iheart.com"
+      },
+      {
+        "title": "WACO-FM (Waco, TX )",
+        "slug": "waco100iheart",
+        "url": "http://waco100.iheart.com/",
+        "icon": null,
+        "media_type": "Radio",
+        "description": "WACO-FM (99.9 FM, \"WACO 100\") is a iHeartMedia, Inc. owned radio station located in Waco, Texas. The station brands itself as \"WACO 100, a station so big they named the entire city after it.\" The station can be heard from Dallas/Ft. Worth to Austin, Texas. Studios are located along Texas State Highway 6 in southwest Waco, and the transmitter is south of city limits, northeast of the town of Moody in extreme southwestern McLennan County.",
+        "view_url": "/media-outlet/waco100iheart",
+        "city": "Waco",
+        "state": "Texas",
+        "country": "US",
+        "domain": "waco100.iheart.com"
+      },
+      {
+        "title": "WSFX-TV (Wilmington, NC)",
+        "slug": "wsfx",
+        "url": "http://foxwilmington.com",
+        "icon": null,
+        "media_type": "Television",
+        "description": "WSFX-TV, virtual channel 26 (UHF digital channel 29), is a Fox-affiliated television station licensed to Wilmington, North Carolina, United States and serving the Cape Fear region. The station is owned by American Spirit Media; Gray Television, which owns NBC affiliate WECT (channel 6), operates WSFX-TV under a shared services agreement (SSA). The two outlets share studios on Shipyard Boulevard in Wilmington; WSFX-TV's transmitter is located near Winnabow, North Carolina. On cable, the station is available on Charter Spectrum channel 9 in both standard and high definition.",
+        "view_url": "/media-outlet/wsfx",
+        "city": "Wilmington",
+        "state": "North Carolina",
+        "country": "US",
+        "domain": "foxwilmington.com"
+      },
+      {
+        "title": "Yerepouni Daily News",
+        "slug": "yerepouni-news",
+        "url": "http://yerepouni-news.com",
+        "icon": null,
+        "media_type": "Online/Digital",
+        "description": "Independent news website.",
+        "view_url": "/media-outlet/yerepouni-news",
+        "city": null,
+        "state": null,
+        "country": "AM",
+        "domain": "yerepouni-news.com"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "title": "Darrell Issa, who helped bankroll Gray Davis recall, says anti-Newsom campaign ‘more important’",
+      "title_link": "https://www.foxnews.com/politics/darrell-issa-gray-davis-recall-newsom-more-important",
+      "time": "2021-02-05T14:53:50",
+      "blurb": "—\n                \n                \n                    EXCLUSIVE: Republican Rep. Darrell Issa helped fund the recall effort against then-California Gov. Gray Davis in 2003, but the California congressman told Fox News that the push to recall current Gov. Gavin Newsom is \"more important\" than that effort. The campaign to force a recall vote against Newsom has garnered signatures from more than 1.4 million Californians.",
+      "url": "https://www.foxnews.com/politics/darrell-issa-gray-davis-recall-newsom-more-important"
+    },
+    {
+      "title": "Biden flying to Delaware despite CDC warnings to avoid travel",
+      "title_link": "https://foxwilmington.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel/",
+      "time": "2021-02-05T09:37:05",
+      "blurb": "—\n                \n                \n                    President Biden is expected to travel to Delaware this weekend, in what will be his first out-of-town trip since taking office, despite warnings from the Centers of Disease Control and Prevention to avoid travel.",
+      "url": "https://foxwilmington.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel/"
+    },
+    {
+      "title": "Who are the Democratic Trump impeachment managers?",
+      "title_link": "https://foxwilmington.com/politics/who-are-the-democratic-trump-impeachment-managers/",
+      "time": "2021-02-05T09:36:57",
+      "blurb": "—\n                \n                \n                    The Senate impeachment trial for former President Trump is set to begin Tuesday after the House of Representatives last month voted to impeach him for the second time—this time after being accused of inciting insurrection during the Capitol riot on Jan. 6.",
+      "url": "https://foxwilmington.com/politics/who-are-the-democratic-trump-impeachment-managers/"
+    },
+    {
+      "title": "Who are the Democratic Trump impeachment managers?",
+      "title_link": "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers",
+      "time": "2021-02-05T07:51:41",
+      "blurb": "—\n                \n                \n                    The Senate impeachment trial for former President Trump is set to begin Tuesday after the House of Representatives last month voted to impeach him for the second time—this time after being accused of inciting insurrection during the Capitol riot on Jan. 6.",
+      "url": "https://www.foxnews.com/politics/who-are-the-democratic-trump-impeachment-managers"
+    },
+    {
+      "title": "Biden flying to Delaware despite CDC warnings to avoid travel",
+      "title_link": "https://www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel",
+      "time": "2021-02-05T07:39:08",
+      "blurb": "—\n                \n                \n                    President Biden is expected to travel to Delaware this weekend, in what will be his first out-of-town trip since taking office, despite warnings from the Centers of Disease Control and Prevention to avoid travel.",
+      "url": "https://www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel"
+    },
+    {
+      "title": "Trump legal team fires back at request for former president to testify at impeachment trial",
+      "title_link": "https://www.foxnews.com/politics/trump-response-impeachment",
+      "time": "2021-02-04T15:49:53",
+      "blurb": "—\n                \n                \n                    Former President Trump's legal team fired back at Impeachment Manager Jamie Raskin's request for the former president to testify as part of the Senate impeachment trial, calling it a \"public relations stunt\" and saying they \"cannot prove\" the allegations against him. The comments come after House impeachment managers requested that Trump provide testimony under oath either before or during the Senate impeachment trial about \"his conduct\" on Jan. 6.",
+      "url": "https://www.foxnews.com/politics/trump-response-impeachment"
+    },
+    {
+      "title": "White House voices support for moon exploration by 2024, after concerns Biden would nix Artemis Program",
+      "title_link": "https://www.foxnews.com/politics/white-house-supports-moon-exploration-by-2024",
+      "time": "2021-02-04T13:58:02",
+      "blurb": "—\n                \n                \n                    White House press secretary Jen Psaki on Thursday voiced support for NASA's Artemis Program, which aims to land the first woman and next man on the moon by 2024.",
+      "url": "https://www.foxnews.com/politics/white-house-supports-moon-exploration-by-2024"
+    },
+    {
+      "title": "Biden priority is 'dealing with China's trade abuses' that harm American workers: National security adviser",
+      "title_link": "https://www.foxnews.com/politics/biden-admin-priority-is-dealing-with-chinas-trade-abuses-that-harm-american-workers-sullivan-says",
+      "time": "2021-02-04T13:32:47",
+      "blurb": "—\n                \n                \n                    White House National Security Adviser Jake Sullivan said a \"priority\" of the Biden administration is \"dealing with China’s trade abuses\" that harm American workers, adding that President Biden’s national security strategy will lead with \"diplomacy.\"Sullivan briefed reporters on Thursday before the president was set to visit the State Department to deliver remarks on foreign policy and national security.",
+      "url": "https://www.foxnews.com/politics/biden-admin-priority-is-dealing-with-chinas-trade-abuses-that-harm-american-workers-sullivan-says"
+    },
+    {
+      "title": "Beleaguered TSA awaits new director as glitches mount",
+      "title_link": "https://www.foxnews.com/us/beleaguered-tsa-awaits-new-director-as-glitches-mount",
+      "time": "2021-02-04T12:59:32",
+      "blurb": "—\n                \n                \n                    President Trump has yet to name a new TSA administrator, but the need to fill that position appears increasingly urgent. February isn’t over yet, but already this month, the list of TSA glitches is stacking up:On Monday, 11 people walked through a security lane at New York’s John F.",
+      "url": "https://www.foxnews.com/us/beleaguered-tsa-awaits-new-director-as-glitches-mount"
+    },
+    {
+      "title": "Trump nominates Alex Azar for HHS secretary, replacing Tom Price",
+      "title_link": "https://www.foxnews.com/politics/trump-nominates-alex-azar-for-hhs-secretary-replacing-tom-price",
+      "time": "2021-02-04T12:59:28",
+      "blurb": "—\n                \n                \n                    President Trump announced that he will nominate Alex Azar as his Health and Human Services secretary, replacing Tom Price who was forced to resign in September amid a scandal over travel expenses. “Happy to announce, I am nominating Alex Azar to be the next HHS Secretary. He will be a star for better healthcare and lower drug prices!” the president tweeted Monday from the Philippines. Trump has reportedly been leaning toward an Azar nomination, as he is a veteran of the agency.",
+      "url": "https://www.foxnews.com/politics/trump-nominates-alex-azar-for-hhs-secretary-replacing-tom-price"
+    },
+    {
+      "title": "Trump resigns from Screen Actors Guild",
+      "title_link": "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild",
+      "time": "2021-02-04T12:50:16",
+      "blurb": "—\n                \n                \n                    EXCLUSIVE: President Trump is resigning from the Screen Actors Guild - American Federation of Television and Radio Artists after they threatened to expel his membership from the union after the Capitol riot -- to which he said, \"Who cares!\"The former president's letter of resignation Wednesday comes after the SAG-AFTRA board voted \"overwhelmingly\" that Trump violated the union's membership guidelines in the wake of the Capitol riot.",
+      "url": "https://www.foxnews.com/politics/trump-resigns-from-screen-actors-guild"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.foxnews.com/politics/democrats-biden-cancel-student-loan-debt-executive-action",
+      "time": "2021-02-04T12:09:47",
+      "blurb": "—\n                \n                \n                    Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.foxnews.com/politics/democrats-biden-cancel-student-loan-debt-executive-action"
+    },
+    {
+      "title": "Colorado officials want Pentagon to reconsider Trump decision to locate Space Command in Alabama",
+      "title_link": "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location",
+      "time": "2021-02-04T10:47:33",
+      "blurb": "—\n                \n                \n                    Colorado Gov. Jared Polis and a group of bipartisan state officials are urging Defense Secretary Lloyd Austin to reconsider and \"pause\" former President Donald Trump's decision to move U.S. Space Command from Colorado Springs to Alabama, saying it will \"undermine\" the country's ability to respond to national security threats in space.",
+      "url": "https://www.foxnews.com/politics/colorado-officials-pentagon-reconsider-trump-decision-space-command-location"
+    },
+    {
+      "title": "Biden addresses National Prayer Breakfast, says 'we need to defeat political extremism'",
+      "title_link": "https://www.foxnews.com/politics/biden-addresses-national-prayer-breakfast",
+      "time": "2021-02-04T09:41:40",
+      "blurb": "—\n                \n                \n                    President Biden addressed the National Prayer Breakfast on Thursday, saying the country needs to \"defeat political extremism\" and rely on \"faith to guide us out of the darkness and into the light\" amid the coronavirus pandemic.",
+      "url": "https://www.foxnews.com/politics/biden-addresses-national-prayer-breakfast"
+    },
+    {
+      "title": "Black GOP lawmakers call on National Museum of African American History to 'honor' Justice Clarence Thomas",
+      "title_link": "https://foxwilmington.com/politics/black-gop-lawmakers-call-on-national-museum-of-african-american-history-to-honor-justice-clarence-thomas/",
+      "time": "2021-02-04T09:28:11",
+      "blurb": "—\n                \n                \n                    EXCLUSIVE: A group of Black Republican lawmakers are urging the National Museum of African American History and Culture to “honor” Supreme Court Justice Clarence Thomas, saying the current exhibit “falls short” of representing him and that an update is “long overdue.”Freshman Rep. Byron Donalds, R-Fla., wrote a letter to leadership at the museum, which opened in 2016 as part of the Smithsonian Institution. The letter is also signed by Sen. Tim Scott, R-S.C., Rep.",
+      "url": "https://foxwilmington.com/politics/black-gop-lawmakers-call-on-national-museum-of-african-american-history-to-honor-justice-clarence-thomas/"
+    },
+    {
+      "title": "Black GOP lawmakers call on National Museum of African American History to 'honor' Justice Clarence Thomas",
+      "title_link": "https://www.foxnews.com/politics/black-gop-lawmakers-national-museum-of-african-american-history-clarence-thomas",
+      "time": "2021-02-04T07:54:37",
+      "blurb": "—\n                \n                \n                    EXCLUSIVE: A group of Black Republican lawmakers are urging the National Museum of African American History and Culture to \"honor\" Supreme Court Justice Clarence Thomas, saying the current exhibit \"falls short\" of representing him and that an update is \"long overdue.\"Freshman Rep. Byron Donalds, R-Fla., wrote a letter to leadership at the museum, which opened in 2016 as part of the Smithsonian Institution. The letter is also signed by Sen. Tim Scott, R-S.C., Rep.",
+      "url": "https://www.foxnews.com/politics/black-gop-lawmakers-national-museum-of-african-american-history-clarence-thomas"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox5ny.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox5ny.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox4news.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox4news.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.foxla.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.foxla.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox7austin.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox7austin.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox29.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox29.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox13news.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox13news.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox35orlando.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox35orlando.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox10phoenix.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox10phoenix.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.q13fox.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c78f3310aaa000167fda2",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.q13fox.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c78f3310aaa000167fda2"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox2detroit.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c756f310aaa000167fd86",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox2detroit.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c756f310aaa000167fd86"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox5dc.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c6aea2b0ff1000121d2ef",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox5dc.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c6aea2b0ff1000121d2ef"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox32chicago.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c6ae33cb4af0001e7e483",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox32chicago.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c6ae33cb4af0001e7e483"
+    },
+    {
+      "title": "White House voices support for moon exploration by 2024, after concerns Biden would nix Artemis Program",
+      "title_link": "https://www.fox35orlando.com/news/white-house-voices-support-for-moon-exploration-by-2024-after-concerns-biden-would-nix-artemis-program",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Illustration of Artemis astronauts on the Moon. (Photo Credit: NASA)  White House press secretary Jen Psaki on Thursday voiced support for NASA's Artemis Program, which aims to land the first woman and next man on the moon by 2024.",
+      "url": "https://www.fox35orlando.com/news/white-house-voices-support-for-moon-exploration-by-2024-after-concerns-biden-would-nix-artemis-program"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox26houston.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c3d440159bb00010f81f8",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox26houston.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c3d440159bb00010f81f8"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox6now.com/news/dems-to-introduce-plan-to-erase-50000-of-student-debt",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox6now.com/news/dems-to-introduce-plan-to-erase-50000-of-student-debt"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox9.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c32ab0159bb00010f81b8",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox9.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c32ab0159bb00010f81b8"
+    },
+    {
+      "title": "Democrats urge Biden to cancel up to $50k in student loan debt by executive action",
+      "title_link": "https://www.fox5atlanta.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c2f2f8a9b7e0001b3fe9b",
+      "time": "2021-02-04T00:00:00",
+      "blurb": "—\n                \n                \n                    Congressional Democrats call for $50,000 of student debt to be canceled Democrats from the Senate and House of Representatives spoke outside the Capitol on Feb. 4, reigniting their call to have President Joe Biden forgive up to $50,000 in student debt.  WASHINGTON - Senate Majority Leader Chuck Schumer, Sen. Elizabeth Warren and Rep. Ayanna Pressley on Thursday urged President Biden use his executive authority to cancel up to $50,000 in student loan debt for federal student loan borrowers.",
+      "url": "https://www.fox5atlanta.com/news/democrats-urge-biden-to-cancel-up-to-50k-in-student-loan-debt-by-executive-action?taid=601c2f2f8a9b7e0001b3fe9b"
+    },
+    {
+      "title": "Space Force 'absolutely' has 'full support' of Biden administration, Psaki says after controversial comments",
+      "title_link": "https://www.foxnews.com/politics/space-force-full-support-biden-administration",
+      "time": "2021-02-03T15:03:25",
+      "blurb": "—\n                \n                \n                    White House press secretary Jen Psaki on Wednesday said the U.S. Space Force \"absolutely\" has the \"full support\" of the Biden administration and said they are \"not revisiting the decision\" to establish the sixth branch of the U.S. military as she cleaned up comments from a day earlier.",
+      "url": "https://www.foxnews.com/politics/space-force-full-support-biden-administration"
+    },
+    {
+      "title": "Ex-White House officials slams Psaki’s ‘pretty bad blind spot’ after Space Force comments",
+      "title_link": "https://www.foxnews.com/politics/ex-white-house-officials-slams-psakis-pretty-bad-blind-spot-after-space-force-comments",
+      "time": "2021-02-03T14:04:45",
+      "blurb": "—\n                \n                \n                    Former Trump White House officials are slamming press secretary Jen Psaki’s comments about the Space Force, describing them as a \"pretty bad blind spot\" regarding one of the branches of the U.S. Military. Psaki, during the White House press briefing Tuesday, was asked whether President Biden would keep the scope of the Space Force during his administration. PSAKI ACCUSED OF MAKING FUN OF THE SPACE FORCE, REFUSES TO APOLOGIZE\"Wow. Space Force.",
+      "url": "https://www.foxnews.com/politics/ex-white-house-officials-slams-psakis-pretty-bad-blind-spot-after-space-force-comments"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in second impeachment trial, resign House seat 'if the law requires it'",
+      "title_link": "https://www.foxnews.com/politics/gaetz-willing-resign-to-defend-trump-impeachment-trial",
+      "time": "2021-02-03T14:03:06",
+      "blurb": "—\n                \n                \n                    Republican Rep. Matt Gaetz on Wednesday offered to represent former President Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team. Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.",
+      "url": "https://www.foxnews.com/politics/gaetz-willing-resign-to-defend-trump-impeachment-trial"
+    },
+    {
+      "title": "Biden admin says vaccinating everyone in America is ‘one of the greatest operational challenges’ ever faced",
+      "title_link": "https://www.foxnews.com/politics/biden-admin-help-establish-covid-community-vaccination-sites",
+      "time": "2021-02-03T12:40:16",
+      "blurb": "—\n                \n                \n                    The White House Coronavirus Task Force said Wednesday the federal government is working to establish coronavirus community vaccination sites across the country with the help of the Department of Defense and the Federal Emergency Management Agency while maintaining that vaccinating all Americans against COVID-19 is \"one of the greatest operational challenges\" the country has ever faced.",
+      "url": "https://www.foxnews.com/politics/biden-admin-help-establish-covid-community-vaccination-sites"
+    },
+    {
+      "title": "ODNI warns China's collection of US health care data, DNA pose 'serious risks' to economic, national security",
+      "title_link": "https://www.foxnews.com/politics/odni-warns-chinas-us-health-care-data-dna-risks-economic-national-security",
+      "time": "2021-02-03T11:23:43",
+      "blurb": "—\n                \n                \n                    The Office of the Director of National Intelligence is warning of China’s collection of health care data and DNA of Americans, warning that the efforts pose \"serious risks\" to the privacy of Americans and to U.S. economic and national security.",
+      "url": "https://www.foxnews.com/politics/odni-warns-chinas-us-health-care-data-dna-risks-economic-national-security"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox7austin.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b2e7c0159bb00010f7cbd",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox7austin.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b2e7c0159bb00010f7cbd"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox5ny.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox5ny.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.foxla.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.foxla.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox6now.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b7bd70159bb00010f7e25",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox6now.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b7bd70159bb00010f7e25"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox13news.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox13news.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox5dc.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b12598a9b7e0001b3f8b7",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox5dc.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b12598a9b7e0001b3f8b7"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox32chicago.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b1000179dfd00017f9653",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox32chicago.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it?taid=601b1000179dfd00017f9653"
+    },
+    {
+      "title": "Gaetz offers to represent Trump in 2nd impeachment trial, will resign House seat 'if the law requires it'",
+      "title_link": "https://www.fox35orlando.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it",
+      "time": "2021-02-03T00:00:00",
+      "blurb": "—\n                \n                \n                    Florida Republican Rep. Matt Gaetz on Wednesday offered to represent former President Donald Trump in his second impeachment trial, telling Fox News he would be willing to resign from his seat in the House of Representatives if asked to join the Trump legal team.  Gaetz, R-Fla., told Fox News on Wednesday that he has not been asked to join the former president’s defense, but offered to do so.  \"I only regret that I have but one political career to give to my president,\" Gaetz told Fox News.",
+      "url": "https://www.fox35orlando.com/news/gaetz-offers-to-represent-trump-in-2nd-impeachment-trial-will-resign-house-seat-if-the-law-requires-it"
+    },
+    {
+      "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
+      "title_link": "https://www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes",
+      "time": "2021-02-02T14:54:27",
+      "blurb": "—\n                \n                \n                    Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm President Biden’s nominee to lead the Justice Department.",
+      "url": "https://www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes"
+    },
+    {
+      "title": "Durham probe focused on FBI, but prosecution of high-level officials like Comey 'unlikely': sources",
+      "title_link": "https://www.foxnews.com/politics/durham-probe-focused-on-fbi-cia-completed",
+      "time": "2021-02-02T12:24:50",
+      "blurb": "—\n                \n                \n                    Special Counsel John Durham’s investigation is largely focused on the activities of the FBI as he reviews the Trump-Russia probe, Fox News has learned, but sources familiar with the investigation said the prosecution of high-level FBI officials, like former Director James Comey, is \"unlikely.\" Sources told Fox News that the investigation is ongoing and Durham completed the CIA portion of his investigation last year -- and has now shifted his focus to activities of the FBI as part of his probe...",
+      "url": "https://www.foxnews.com/politics/durham-probe-focused-on-fbi-cia-completed"
+    },
+    {
+      "title": "Biden administration considering Rahm Emanuel for ambassador role, report says",
+      "title_link": "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role",
+      "time": "2021-02-02T11:14:11",
+      "blurb": "—\n                \n                \n                    Former Chicago mayor and ex-Obama chief of staff Rahm Emanuel might still end up in the Biden administration, according to a report. NBC News reported Monday that the president is considering Emanuel as a potential ambassador to China, Japan or even Israel. RAHM EMANUEL COULD BE A BIDEN CABINET PICKWhen asked about a possible Emanuel appointment, the White House National Security Council told Fox News that they do not have any personnel announcements to make at this point.",
+      "url": "https://www.foxnews.com/politics/biden-rahm-emanuel-administration-role"
+    },
+    {
+      "title": "White House calls Manchin a 'key partner' after he took issue with Harris local interview",
+      "title_link": "https://www.foxnews.com/politics/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview",
+      "time": "2021-02-01T15:17:51",
+      "blurb": "—\n                \n                \n                    White House Press Secretary Jen Psaki on Monday said Democratic Sen. Joe Manchin is a \"key partner\" for the administration after Vice President Harris made appeared on a local West Virginia television station to discuss President Biden’s \"critical\" coronavirus relief plan— an appearance that angered the West Virginia senator. Harris over the weekend promoted Biden’s $1.9 trillion \"American Rescue Plan\" during a pair of interviews with local TV stations in West Virginia and Arizona.",
+      "url": "https://www.foxnews.com/politics/white-house-calls-manchin-a-key-partner-after-taking-issue-with-harris-local-interview"
+    }
+  ]
+}
