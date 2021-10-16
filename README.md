@@ -1,5 +1,5 @@
 # MuckRack Web Scraping
-Scraping the [https://muckrack.com/](muckrack_site) to get the 
+Scraping the [muckrack_site](https://muckrack.com) to get the 
 details about the author.
 
 
